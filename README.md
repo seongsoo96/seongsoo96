@@ -1,8 +1,6 @@
-### Hi there 👋
 
-Hi, I'm Seongsoo.
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=WookyoungKim&fontSize=70&animation=twinkling) -->
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hi there 👋&fontSize=70&animation=twinkling)
 
 <p align="center">🇰🇷&nbsp 🇿🇲&nbsp 🇻🇳&nbsp 🇱🇦&nbsp 🇹🇭&nbsp 🇳🇿&nbsp 🇲🇨&nbsp 🇸🇬&nbsp 🇲🇾&nbsp 🇯🇵</p>
 
